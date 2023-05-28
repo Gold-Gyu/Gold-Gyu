@@ -4,7 +4,7 @@
 - 📫 How to reach me: lkg2097@gmail.com
 - ⚡ Fun fact: I love you
 
-<h2> My tech stack🌱 </h2>
+<h2> My tech stack👋 </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
