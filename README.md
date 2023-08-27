@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on SSAFY
+- 🔭 I am on a journey to become a full-stack developer."
 - 🌱 I’m currently learning React, TypeScript, Recoil, Redux, Python, Django, Vue, Javascript, HTML/CSS,
 - 📫 How to reach me: lkg2097@gmail.com
 - ⚡ Fun fact: I love you
