@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [준비중](준비중)
 
-- 📝 I regularly write articles on [https://velog.io/@goldgyu/posts](https://velog.io/@goldgyu/posts)
+- 📝 I regularly write articles on [@goldgyu](https://velog.io/@goldgyu/posts)
 
 - 📫 How to reach me **lkg2097@gmail.com**
 
